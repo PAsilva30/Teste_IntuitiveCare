@@ -10,7 +10,7 @@
    * Teste 3 => Banco de dados
 ---
 
-## Atividades Realizadas:
+#### Atividades Realizadas:
 
 * Teste 1 => WebScraping:
    * Todo o teste foi feito no Jupyter Notebook (Python)
