@@ -7,7 +7,7 @@
 * Testes escolhidos:
    * Teste 1 => WebScraping
    * Teste 2 => Transformação dos dados
-   * teste 3 => Banco de dados
+   * Teste 3 => Banco de dados
 ---
 
 ## Atividades Realizadas:
