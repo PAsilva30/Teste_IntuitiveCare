@@ -1,6 +1,7 @@
 # Teste_IntuitiveCare
----
 [![Linkedin-Logo 100p](https://user-images.githubusercontent.com/106432467/199611997-0e8bf780-68a2-4450-89ac-d644a8da4828.png)](https://www.linkedin.com/in/pedro-afonso-silva-a228b2125/)
+
+---
 
 ## Testes de nivelamento da empresa Intuitive Care:
 
