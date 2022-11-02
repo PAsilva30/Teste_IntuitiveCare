@@ -66,7 +66,7 @@ CHARACTER SET latin1
 FIELDS TERMINATED BY ';'
 ENCLOSED BY '"'
 LINES TERMINATED BY '\r\n'
-IGNORE 1 ROWS;
+IGNORE 1 ROWS; #amém
 
 ## 3T2021 => 742.529 linhas
 LOAD DATA INFILE "C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Teste_IntuitiveCare/3T2021.csv"
