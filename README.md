@@ -20,7 +20,7 @@
    * Todo o teste foi realizado no Jupyter Notebook (Python)
 
 * Teste 3 => Banco de dados
-   * Primeira etapa foi baixar os arquivos necessário (manualmente)
+   * Primeira etapa foi baixar os arquivos necessários (manualmente)
    * Segunda etapa foi realizada no MySQL WorkBench
 
 ---
